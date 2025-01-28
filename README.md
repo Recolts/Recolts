@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on enhancing my web development skill.<br>🌱 I’m currently learning front-end development.<br>💬 Ask me about anything.<br>⚡ Fun fact I can sing you a song you never heard before.
+🔭 I’m currently working on enhancing my web development skill.<br><br>💬 Ask me about anything.<br>⚡ Fun fact I can sing you a song you never heard before.
 
 
 ## 🌐 Socials:
